@@ -22,3 +22,4 @@ DZSHKA PO PROGE
 Код прикрепил
 
 Вывод
+![Uploading image.png…]()
